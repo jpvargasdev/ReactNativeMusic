@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PlatziMusic</string>
+    <string name="facebook_app_id">130104090950021</string>
+    <string name="fb_login_protocol_scheme">fb130104090950021</string>
+</resources>
